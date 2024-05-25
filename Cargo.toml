@@ -1,0 +1,10 @@
+[package]
+name = "proptest-state-machine-banking"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+proptest = "1.4.0"
+proptest-state-machine = "0.3.0"
